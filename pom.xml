@@ -121,7 +121,7 @@
     <project.build.sourceEncoding>US-ASCII</project.build.sourceEncoding>
     <servlet-api.version>5.0.0</servlet-api.version>
     <thymeleaf.version>3.1.0-SNAPSHOT</thymeleaf.version>
-    <springframework.version>6.0.0-SNAPSHOT</springframework.version>
+    <springframework.version>6.0.1-SNAPSHOT</springframework.version>
   </properties>
   
 
